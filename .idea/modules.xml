@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WiredBrainCoffeeCompany.iml" filepath="$PROJECT_DIR$/WiredBrainCoffeeCompany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-picasso.iml" filepath="$PROJECT_DIR$/android-picasso.iml" group="android-picasso" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-picasso-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-picasso-app.iml" group="android-picasso/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

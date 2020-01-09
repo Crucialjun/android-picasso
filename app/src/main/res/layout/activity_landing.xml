@@ -8,6 +8,11 @@
     android:orientation="vertical"
     tools:context="com.example.alexr.wiredbraincoffeeco.MainActivity">
 
+    <ImageView
+        android:id="@+id/image_logo"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"/>
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
